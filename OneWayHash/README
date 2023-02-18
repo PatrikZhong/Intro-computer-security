@@ -1,0 +1,9 @@
+BitCount takes two binary numbers as strings and then compares how many similar bits there are between them. 
+
+
+Example usage:
+
+java BitCount <binary number> <binary number>
+
+The two binary numbers should be equally long.
+
